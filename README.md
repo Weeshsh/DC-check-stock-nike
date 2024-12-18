@@ -1,3 +1,7 @@
+<h1 align="center">
+~~DEPRECATED~~
+</h1>
+
 # Nike Scraper Bot
 
 ## Overview
